@@ -10,19 +10,19 @@ body {
 }
 
 /* 1. alle links in de navigatie -> color: crimson; */
-
+a[href] {color: crimson;}
 
 /* 2. alleen de paragrafen in de footer -> font-size: 0.875rem; */
-
+p footer {font-size: 0.875rem;}
 
 /* 3. alleen de lijstitems van het BUITENSTE niveau in de lijst met de class
       rassen (dus niet de items van de binnenlijsten) -> outline: 2px solid crimson;
       (outline tekent een kader rond precies het element dat je raakte; de
       property zelf komt in hoofdstuk 3) */
-
+rassen > li {outline: 2px solid crimson;}
 
 /* 4. de paragraaf die onmiddellijk na elke h2 komt -> font-style: italic; */
-
+h2 ww
 
 /* 5. elk oneven item in de lijst met openingsuren -> background-color: #f1e9dc; */
 

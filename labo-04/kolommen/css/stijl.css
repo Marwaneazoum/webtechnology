@@ -6,6 +6,7 @@
 }
 
 /* === your rules === */
+<<<<<<< HEAD
 body{
     padding: 2rem;
     color:white;
@@ -41,3 +42,5 @@ main div {
     justify-content: center;
     align-items: center;
 }
+=======
+>>>>>>> 675e913bbbceccf096aec654ff5a4cc96e28d1e8

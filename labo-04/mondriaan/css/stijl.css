@@ -1,6 +1,7 @@
 /* stijl.css - labo 4, mondriaan (reset.css is linked before this file) */
 
 /* === tokens === */
+<<<<<<< HEAD
 :root 
 /* === your rules === */
 main{
@@ -41,3 +42,10 @@ grid-template-columns: 1fr 2fr 1fr;
 div{
     min-height: 1rem;
 }
+=======
+:root {
+
+}
+
+/* === your rules === */
+>>>>>>> 675e913bbbceccf096aec654ff5a4cc96e28d1e8

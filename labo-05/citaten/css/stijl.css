@@ -1,0 +1,50 @@
+/* stijl.css - labo 5, citaten (reset.css is linked before this file) */
+
+/* === tokens === */
+:root {
+
+}
+
+/* === your rules === */
+.citaten{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    gap: 1rem;
+}
+.citaat{
+    border-left: 2rem solid red;
+     border:1px solid red;
+    flex-basis: 18rem;
+     flex-grow: 1;
+     display: flex;
+     flex-direction: column;
+}
+.citaat p {
+    flex-grow: 1;
+}
+.blauw{
+    color: blue;
+}
+.roze {
+    color: pink;
+}
+.rood{
+    color: red;
+}
+.oranje{
+    color: orange;
+}
+.groen{
+    color: green;
+}
+.salie {
+    color: slategray
+}
+.paars {
+    color: purple;
+
+}
+.grijs {
+    color: grey;
+}

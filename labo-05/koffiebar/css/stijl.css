@@ -1,0 +1,18 @@
+/* stijl.css - labo 5, koffiebar (reset.css is linked before this file) */
+
+/* === tokens === */
+:root {
+}
+
+/* === your rules === */
+body {
+}
+header {
+}
+.logo {
+  background-color: brown;
+  display: grid;
+  color: yellow;
+}
+.actief {
+}

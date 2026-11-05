@@ -2,11 +2,17 @@
 
 /* === tokens === */
 :root {
-
 }
 
 /* === your rules === */
-.logo{
-    background-color: brown;
-    
+body {
+}
+header {
+}
+.logo {
+  background-color: brown;
+  display: grid;
+  color: yellow;
+}
+.actief {
 }

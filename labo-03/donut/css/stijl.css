@@ -6,3 +6,32 @@
 }
 
 /* === your rules === */
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+
+}
+main{
+display: flex;
+align-items: center;
+justify-content: center;
+    background-color: brown;
+    
+    border: 0.75rem solid black;
+    height: 90vh;
+    width: 90vh;
+}
+div{
+    background-color: purple;
+    width: 50%;
+    height: 50%;
+    padding: 5rem;
+    border-radius: 50%;
+    
+}
+h1{
+    background-color: yellow;
+    
+}

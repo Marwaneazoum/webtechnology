@@ -33,7 +33,9 @@
   background-color: var(--taken);
 }
 .weer {
-  background-color: var(--tekstlicht);
+  background-color: yellow;
+
+
   color: var(--tekstdark);
 }
 /* === media queries: below the base rules === */
@@ -60,6 +62,7 @@ body {
   .grafiek,
   .weer {
     grid-column: 1/-1;
+    
   }
   .tegel {
     min-height: 6rem;
